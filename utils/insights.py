@@ -2,9 +2,9 @@ import pandas as pd
 
 # Load data
 # food_df = pd.read_csv("food_calorie_info.csv")
-food_df = pd.read_csv(r"assets\food_calorie_info.csv")
+food_df = pd.read_csv(r"assets/food_calorie_info.csv")
 
-protein_df = pd.read_csv(r"assets\food_protien_info.csv")
+protein_df = pd.read_csv(r"assets/food_protien_info.csv")
 
 def get_calories_info(food_item):
     """Retrieves calorie level and suggestion for the food item."""
