@@ -2,7 +2,7 @@ import numpy as np
 from tensorflow.keras.models import load_model
 import os
 
-BASE_MODEL_DIR = r"models"
+BASE_MODEL_DIR = r"models/model"
 
 def load_food_model(model_name):
     """Loads the selected pre-trained model."""
