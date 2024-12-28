@@ -28,10 +28,10 @@ MODEL_OPTIONS = {
     "CNN v1": "cnnv1.h5",
     "CNN v2": "cnnv2.h5",
     "CNN v3": "cnnv3.h5",
-    "CNN v4": "cnnv4.h5",
+    "CNN v4 under maintenance": "cnnv4.h5",
     "Improved CNN v2": "improved_cnnv2.h5",
     "Improved CNN v21": "improved_cnnv21.h5",
-    "Inception v3": "inceptionv3.h5",
+    "Inception v3 under maintenance": "inceptionv3.h5",
 }
 
 st.title("Visual Insight Assistant")
