@@ -1,5 +1,5 @@
-# Food Insight Assistant
-
+# Visual Insight Assistant
+## Host Link : https://visual-insight-assistant.streamlit.app/
 ## Introduction  
 
 Many people face challenges in recognizing food items, especially those who are visually impaired. Additionally, not knowing the nutritional value of the food we eat can make it harder to make healthy choices. Some foods might also pose health risks if we are unaware of their effects.  
